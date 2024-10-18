@@ -2,7 +2,6 @@ package cache
 
 import (
 	"fmt"
-
 	"time"
 
 	"semrush/cache/internal/lfu"
